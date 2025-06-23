@@ -93,7 +93,7 @@ export default function NexaFortisLanding() {
         <h2 className="text-2xl font-bold mb-6">Let’s Talk</h2>
         <p className="mb-6">Ready to get started or need help choosing a plan?</p>
         <a
-          href="https://wa.me/61400000000"
+          href="https://wa.me/61412965244"
           className="bg-blue-700 text-white px-6 py-3 font-semibold rounded-xl shadow hover:bg-blue-800"
         >
           Chat on WhatsApp
